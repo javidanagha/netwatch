@@ -26,6 +26,7 @@ through a small launcher script that loads the config and runs the bot as root.
 ### 1. Install
 
 ```bash
+cd ~
 sudo apt install -y arp-scan nmap python3-venv git
 git clone https://github.com/javidanagha/netwatch.git
 cd netwatch
