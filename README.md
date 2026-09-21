@@ -99,13 +99,7 @@ devices it finds as the baseline without alerts; after that, any unknown MAC tri
 ## Screenshots
 
 <p align="center">
-  <img src="docs/alert.png" width="420" alt="New device alert"><br>
-  <sub>New device alert</sub>
-</p>
-
-<p align="center">
-  <img src="docs/list.png" width="300" alt="Device list"><br>
-  <sub>/list</sub>
+  <img src="docs/preview.png" width="380" alt="Netwatch: new device alert and device list">
 </p>
 
 ## Disclaimer
