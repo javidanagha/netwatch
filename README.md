@@ -71,7 +71,7 @@ sudo chmod +x /usr/local/bin/netwatch
 netwatch
 ```
 
-The bot runs in the foreground (stop it with Ctrl+C). On the first scan it stores all
+The bot runs in the foreground. On the first scan it stores all
 devices it finds as the baseline without alerts; after that, any unknown MAC triggers an alert.
 
 ## Commands
