@@ -96,6 +96,11 @@ devices it finds as the baseline without alerts; after that, any unknown MAC tri
   one scan takes roughly 25-30 seconds.
 - OS detection (`nmap -O`) needs root and often fails on phones (no open ports).
 
+## Screenshots
+
+![New device alert](docs/alert.png)
+![Device list](docs/list.png)
+
 ## Disclaimer
 
 Use only on networks you own or are authorized to test.
